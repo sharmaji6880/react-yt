@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input , button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 15px;
+}
