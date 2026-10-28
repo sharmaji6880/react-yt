@@ -1,0 +1,11 @@
+@import "tailwindcss";
+.notesContent {
+    position: fixed;
+    background-color: rgb(127, 255, 212);
+    top: 25%;
+    right: 0;
+    border-radius: 10px
+}
+html, body {
+    height: 100vh;
+}
