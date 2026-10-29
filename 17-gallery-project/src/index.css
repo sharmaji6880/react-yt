@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+img {
+    transition: scale 0.5s ease;
+}
+.bg-cornflowerblue {
+    background-color: cornflowerblue;
+}
+.text-cornflowerblue {
+    color: cornflowerblue;
+}
